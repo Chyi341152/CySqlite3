@@ -1,0 +1,1 @@
+.ar -x --directory ar3 --file test_xyz.db
